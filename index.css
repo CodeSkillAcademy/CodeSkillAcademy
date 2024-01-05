@@ -130,7 +130,7 @@
 .home-navbar-interactive {
   width: 90%;
   display: flex;
-  position: sticky;
+  position: fixed;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
   padding-top: var(--dl-space-space-oneandhalfunits);
